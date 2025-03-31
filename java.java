@@ -1,4 +1,4 @@
-//public class helloword: public regulates access; makes it public, class defines a class, HelloWorld is the class definition.
+//public class java: public regulates access; makes it public, class defines a class, java is the class definition.
 
 public class java {
 
